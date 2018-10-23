@@ -9,7 +9,7 @@
 -  单页文件脱敏处理(手机号/身份证号)
 ![单页文件处理](https://github.com/gotoolkits/pdfDtProtector/blob/master/gif/pdf_single.gif)
 -  多页文件脱敏处理 (手机号/身份证号)
-![多页文件处理](https://github.com/gotoolkits/pdfDtProtector/blob/master/gif/pdf_single.gif)
+![多页文件处理](https://github.com/gotoolkits/pdfDtProtector/blob/master/gif/pdf_multi.gif)
 
 > 依赖：
 
